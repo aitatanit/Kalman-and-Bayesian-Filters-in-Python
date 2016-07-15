@@ -7,9 +7,11 @@
 \documentclass{book}
 \setcounter{chapter}{0}
 \raggedbottom
+\usepackage{stix}
 ((* endblock docclass *))
  
 ((* block preamble *))
+
 ((* endblock preamble *))
  
 ((* block title *))
@@ -18,6 +20,7 @@
 ((* endblock title *))
 
 ((* block markdowncell scoped *))
+\normalem
 \setlength{\parindent}{0em}
 \setlength{\parskip}{0.5em}
     ((( cell.source | citation2latex | strip_files_prefix | markdown2latex(extra_args=["--chapters"]) )))

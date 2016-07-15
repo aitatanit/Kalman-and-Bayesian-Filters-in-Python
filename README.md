@@ -6,6 +6,12 @@ Introductory text for Kalman and Bayesian filters. All code is written in Python
 
 **"Kalman and Bayesian Filters in Python" looks amazing! ... your book is just what I needed** - Allen Downey, Professor and O'Reilly author of several math and programming textbooks, via twitter.
 
+Start reading online now by clicking the binder badge below:
+
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+
+
 
 ![alt tag](https://raw.githubusercontent.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/master/animations/05_dog_track.gif)
 
@@ -68,7 +74,6 @@ The website http://nbviewer.org provides an Jupyter Notebook server that renders
 
 The Preface contains instructions on how to host the book online, for free, on SageMath's cloud server (cloud.sagemath.com) that allows you to run and alter the code insde the Notebooks. It takes 5 minutes to set up. We are working to make this easier to use. 
 
-
 Issues or Questions
 ------
 
@@ -80,13 +85,10 @@ The preface available from the link above has all the information in this README
 PDF Version
 -----
 I used to keep a PDF version of the book in this repository. However, git does not do well with binary blobs like that, and the repository was getting too big. I deleted it and it's history from git. I am now providing it 
-on my google drive [here](https://drive.google.com/file/d/0By_SW19c1BfhSVFzNHc0SjduNzg/view?usp=sharing)
+on my google drive [here](https://drive.google.com/open?id=0By_SW19c1BfhSVFzNHc0SjduNzg)
 
 The PDF will usually lag behind what is in github as I don't update it for every minor check in.
 
-As an experiment I have generated a version for 6x9 paper size. I find it a bit easier to read from a PDF viewer. I may or may not continue to support this format. At the moment the section and chapter names don't fit the top of the page. I know how to fix it, but that is not a top priority for me at the moment.
-
-https://drive.google.com/file/d/0By_SW19c1BfhTHRXWFJ1RUtvaDQ/view?usp=sharing
 
 
 ## Downloading the book
