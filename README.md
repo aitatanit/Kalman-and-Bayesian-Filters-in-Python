@@ -1,4 +1,4 @@
-#[Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+# [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 
 Introductory text for Kalman and Bayesian filters. All code is written in Python, and the book itself is written using Juptyer Notebook so that you can run and modify the code in your browser. What better way to learn?
@@ -11,7 +11,7 @@ Introductory text for Kalman and Bayesian filters. All code is written in Python
 Start reading online now by clicking the binder badge below:
 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/rlabbe/Kalman-and-Bayesian-Filters-in-Python/master)
 
 
 
@@ -66,7 +66,7 @@ The book is written as a collection of Jupyter Notebooks, an interactive, browse
 
 binder serves interactive notebooks online, so you can run the code and change the code within your browser without downloading the book or installing Jupyter. 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/rlabbe/Kalman-and-Bayesian-Filters-in-Python/master)
 
 
 ### nbviewer
