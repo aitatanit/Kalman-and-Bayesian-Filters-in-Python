@@ -8,10 +8,11 @@ Introductory text for Kalman and Bayesian filters. All code is written in Python
 
 **Thanks for all your work on publishing your introductory text on Kalman Filtering, as well as the Python Kalman Filtering libraries. We’ve been using it internally to teach some key state estimation concepts to folks and it’s been a huge help.** - Sam Rodkey, SpaceX
 
-Start reading online now by clicking the binder badge below:
+Start reading online now by clicking the binder or Azure badge below:
 
 
 [![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/rlabbe/Kalman-and-Bayesian-Filters-in-Python/master)
+<a href="https://notebooks.azure.com/import/gh/rlabbe/Kalman-and-Bayesian-Filters-in-Python"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 
 
